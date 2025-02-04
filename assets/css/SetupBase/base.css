@@ -1,0 +1,49 @@
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+button:focus {
+  box-shadow: none !important;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+
+a:hover,
+a.nav-link:hover {
+  color: currentColor;
+  opacity: 0.9;
+}
+
+body .container-xl {
+  padding: 0;
+}
+
+.home {
+  padding-top: 100px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  color: #5f5b57;
+  font-size: 18px;
+  font-weight: 500;
+}
+img {
+  border: none;
+  max-width: 100%;
+  height: auto;
+}

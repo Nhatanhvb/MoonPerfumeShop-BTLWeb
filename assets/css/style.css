@@ -1,0 +1,14 @@
+@import "./SetupBase/reset.css";
+@import "./SetupBase/base.css";
+@import "./SetupBase/variables.css";
+@import "./Layouts/header.css";
+@import "./Components/intro.css";
+@import "./Components/homepage.css";
+@import "./Components/payment.css";
+@import "./Components/breadcrumb.css";
+@import "./Components/body.css";
+@import "./Components/signup.css";
+@import "./Components/cart.css";
+@import "./Components/delivery.css";
+@import "./Components/product-detail.css";
+@import "./Components/shop.css";
